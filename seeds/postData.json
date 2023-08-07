@@ -1,0 +1,12 @@
+[
+    {
+      "title": "TITLE 1",
+      "body": "Unga bunga",
+      "user_id": 1
+    },
+    {
+      "title": "Title of the post",
+      "body": "Body text here",
+      "user_id": 2
+    }
+  ]

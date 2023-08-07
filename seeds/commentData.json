@@ -1,0 +1,12 @@
+[
+    {
+      "body": "Comments go here",
+      "user_id": 2,
+      "post_id": 1
+    },
+    {
+      "body": "Commenting on my own post!",
+      "user_id": 1,
+      "post_id": 2
+    }
+  ]
